@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Shehan Amarasinghe</h1>
-<h3 align="center">I'm pleasure to see you, folks! I'm a last-year undergraduate seeking a degree in software engineering. I enjoy learning about web and mobile development, and I'm currently working to become the best in those fields. For web development, I use the fundamental languages of React, Tailwind CSS, and JS, and I'm also learning Java and React because those are the two languages that are currently in the highest demand in the tech industry. On this platform, you may view both my individual and collaborative efforts.</h3>
+<h3 align="center">I'm pleasure to see you, folks! I'm a last-year undergraduate seeking a degree in software engineering. I enjoy learning about web and mobile development, and I'm currently working to become the best in those fields. For web development, I consume React, Tailwind CSS, and JS, and I'm also learning Java and React because those are the two languages that are currently in the highest demand in the tech industry. On this platform, you may view both my individual and collaborative efforts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehan-amarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="shehan-amarasinghe" /> </p>
 
