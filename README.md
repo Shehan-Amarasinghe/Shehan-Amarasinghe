@@ -1,5 +1,5 @@
 <h2 align="start">Hey👋, I'm Shehan Amarasinghe</h2>
-<h4 align="start">I'm pleasure to see you, folks! I'm an undergraduate software engineer. I enjoy learning about web development and I'm currently working to become best in that field. For web development, I'm working with React, Tailwind CSS, Javascript etc. and I'm also consistantly learning Javascript and React.js because those are the highest demand in the tech industry for front-end development. On this platform, you may view both my individual and collaborative efforts.</h4>
+<h4 align="start">I'm pleasure to see you, folks! I'm an undergraduate software engineer. I enjoy learning about web development and I'm currently working to become best in that field. For web development, I'm working with React, Tailwind CSS, Javascript etc. I'm consistantly learning Javascript and React.js because those are the highest demand in the tech industry for front-end development. On this platform, you may view both my individual and collaborative efforts.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehan-amarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="shehan-amarasinghe" /> </p>
 
