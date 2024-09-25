@@ -1,6 +1,6 @@
 <h2 align="start">Hey👋, I'm Shehan Amarasinghe</h2>
-<h4 align="start">I'm pleasure to see you, folks! 
-Currently, I'm pursuing my last year of the computing and software engineer degree program. </h4>
+<h4 align="start">I'm pleasure to see you, folks! </h4>
+<h4> Currently, I'm pursuing my last year of the computing and software engineer degree program. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehan-amarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="shehan-amarasinghe" /> </p>
 
